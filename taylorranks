@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title>
+    <style> 
+    body {
+	background: gray;
+	
+}
+h1 {
+    
+    color: pink; 
+    font-size: 40px;
+    font-family: "copperplate", fantasy;
+}
+h2 {
+    opacity: .26;
+    font-family: cursive;
+    color: white;
+}
+.head {
+    text-align: center;
+}
+div { 
+    text-align: center;
+}
+#debut {
+    color: rgb(174, 213, 227);
+}
+#fearless {
+    color: rgb(227, 208, 116);
+}
+#speaknow {
+    color: purple;
+}
+#red {
+    color: rgb(150, 18, 31);
+}
+#1989 {
+    color: rgb(214, 79, 128);
+}
+#rep {
+    color: black;
+}
+#folklore {
+    color: white;
+    opacity: .6;
+}
+#top {
+    font-size: 1px;
+    color: gray;
+}    </style>
+	</head>
+	<body>
+	    <h1 id="top">top</h1>
+	  <div> <img class="head" src="https://api.time.com/wp-content/uploads/2019/04/taylor-swift-time-100-2019-082.jpg?quality=85&zoom=2" width="200" > </div>
+	    <h1 class="head"> taylor swift </h1>
+	    <h2 class="head"> six time ama artist of the year winner</h2>
+	    <h1 class="head"> each album ranked </h1>
+	    <ul class="head">
+	        <li><a href="#debut"> debut</a></li> <br>
+	        <li><a href="#fearless"> fearless</a> </li> <br>
+	        <li><a href="#speaknow"> speak now </a></li> <br>
+	        <li><a href="#red"> red </a></li> <br>
+	        <li><a href="#1989"> 1989</a> </li> <br>
+	        <li><a href="#rep"> reputation </a></li> <br>
+	        <li><a href="#lover"> lover </a></li> <br>
+	        <li><a href="#folklore"> folklore</a> </li> <br>
+	        
+	    </ul>
+	   
+	    <h1 id="debut"> debut </h1>
+	    <ol>
+	        <li> our song</li> <br>
+	        <li> teardrops on my guitar </li> <br>
+	        <li> picture to burn </li> <br>
+	        <li> tim mcgraw </li> <br>
+	        <li> should've said no </li> <br>
+	        <li> a place in this world </li> <br>
+	        <li> cold as you </li> <br>
+	        <li> tied together with a smile </li> <br>
+	        <li> mary's song </li> <br>
+	        <li> the outside </li> <br>
+	        <li> stay beautiful </li> <br>
+	        <li> im only me when im with you </li> <br>
+	        <li> invisible </li> <br>
+	        <li> a perfectly good heart </li> <br>
+	        
+	    </ol>
+	    <h1 id="fearless"> fearless </h1>
+	    <ol>
+	        <li> the way i loved you</li> <br>
+	        <li> love story </li> <br>
+	        <li> you belong with me </li> <br>
+	        <li> youre not sorry </li> <br>
+	        <li> fearless </li> <br>
+	        <li> breathe </li> <br>
+	        <li> fifteen </li> <br>
+	        <li> white horse </li> <br>
+	        <li> forever and always </li> <br>
+	        <li> hey stephen </li> <br>
+	        <li> untouchable </li> <br>
+	        <li> jump then fall </li> <br>
+	        <li> the best day </li> <br>
+	        <li> tell me why </li> <br>
+	        <li> change </li> <br>
+	        <li> the other side of the door </li> <br>
+	        <li> come in with the rain </li> <br>
+	        <li> superstar </li> <br>
+	        
+	    </ol>
+	    <h1 id="speaknow"> speak now </h1>
+	    <ol>
+	        <li> back to december</li> <br>
+	        <li> last kiss </li> <br>
+	        <li> dear john </li> <br>
+	        <li> story of us </li> <br>
+	        <li> enchanted </li> <br>
+	        <li> haunted </li> <br>
+	        <li> sparks fly </li> <br>
+	        <li> mine </li> <br>
+	        <li> better than revenge </li> <br>
+	        <li> speak now </li> <br>
+	        <li> never grow up </li> <br>
+	        <li> long live </li> <br>
+	        <li> mean </li> <br>
+	        <li> innocent </li> <br>
+	        
+	    </ol>
+	    <h1 id="red"> red </h1>
+	    <ol>
+	        <li> all too well </li> <br>
+	        <li> i almost do </li> <br>
+	        <li> state of grace </li> <br>
+	        <li> holy ground </li> <br>
+	        <li> treacherous </li> <br>
+	        <li> begin again </li> <br>
+	        <li> red </li> <br>
+	        <li> we are never ever getting back together </li> <br>
+	        <li> i knew you were trouble </li> <br>
+	        <li> the lucky one </li> <br>
+	        <li> the last time </li> <br>
+	        <li> everything has changed </li> <br>
+	        <li> the moment i knew </li> <br>
+	        <li> sad beautiful tragic </li> <br>
+	        <li> stay stay stay </li> <br>
+	        <li> 22 </li> <br>
+	        <li> come back...be here </li> <br>
+	        <li> starlight </li> <br>
+	        <li> girl at home </li> <br>
+	        
+	    </ol>
+	    <h1 id="1989"> 1989 </h1>
+	    <ol>
+	        <li> out of the woods</li> <br>
+	        <li> clean </li> <br>
+	        <li> wildest dream </li> <br>
+	        <li> you are in love </li> <br>
+	        <li> blank space </li> <br>
+	        <li> i know places </li> <br>
+	        <li> new romantics </li> <br>
+	        <li> style </li> <br>
+	        <li> all you had to do was stay </li> <br>
+	        <li> welcome to new york </li> <br>
+	        <li> how you get the girl </li> <br>
+	        <li> this love </li> <br>
+	        <li> bad blood </li> <br>
+	        <li> shake it off </li> <br>
+	        <li> i wish you would </li> <br>
+	        <li> wonderland </li> <br>
+	    </ol>
+	    <h1 id="rep"> reputation </h1>
+	    <ol>
+	        <li> dont blame me </li> <br>
+	        <li> getaway car </li> <br>
+	        <li> king of my heart </li> <br>
+	        <li> dress </li> <br>
+	        <li> delicate </li> <br>
+	        <li> call it what you want </li> <br>
+	        <li> this is why we cant have nice things </li> <br>
+	        <li> i did something bad </li> <br>
+	        <li> so it goes... </li> <br>
+	        <li> ...ready for it? </li> <br>
+	        <li> gorgeous </li> <br>
+	        <li> endgame </li> <br>
+	        <li> new years day </li> <br>
+	        <li> look what you made me do </li> <br>
+	        <li> dancing with our hands tied </li> <br>
+	        
+	    </ol>
+	    <h1 id="lover"> lover </h1>
+	    <ol>
+	        <li> death by a thousand cuts </li> <br>
+	        <li> cruel summer </li> <br>
+	        <li> the archer </li> <br>
+	        <li> cornelia street </li> <br>
+	        <li> lover </li> <br>
+	        <li> i think he knows </li> <br>
+	        <li> miss americana and the heartbreak prince </li> <br>
+	        <li> paper rings </li> <br>
+	        <li> i forgot that you existed </li> <br>
+	        <li> the man </li> <br>
+	        <li> afterglow </li> <br>
+	        <li> london boy </li> <br>
+	        <li> false god </li> <br>
+	        <li> daylight </li> <br>
+	        <li> you need to calm down </li> <br>
+	        <li> soon youll get better </li> <br>
+	        <li> its nice to have a friend </li> <br>
+	        <li> me </li> <br>
+	    </ol>
+	    
+	    <h1 id="folklore"> folklore </h1>
+	    <ol>
+	        <li> august</li> <br>
+	        <li> betty </li> <br>
+	        <li> peace </li> <br>
+	        <li> the lakes </li> <br>
+	        <li> illicit affairs </li> <br>
+	        <li> the last great american dynasty </li> <br>
+	        <li> seven </li> <br>
+	        <li> epiphany </li> <br>
+	        <li> cardigan </li> <br>
+	        <li> exile </li> <br>
+	        <li> hoax </li> <br>
+	        <li> my tears ricochet </li> <br>
+	        <li> the 1 </li> <br>
+	        <li> mad woman </li> <br>
+	        <li> invisible string </li> <br>
+	        <li> mirrorball </li> <br>
+	        <li> this is me trying </li> <br>
+	    </ol>
+	   <h2><a href="#top"> back to top</a> </h2>
+		
+	</body>
+</html>
